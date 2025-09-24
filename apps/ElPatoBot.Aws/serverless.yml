@@ -1,4 +1,4 @@
-org: niv3kelpato
+org: elpatobotorg
 app: el-pato-bot-aws
 service: ElPatoBot-Aws
 frameworkVersion: '3'
